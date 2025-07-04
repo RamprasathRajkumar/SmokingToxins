@@ -1,0 +1,5 @@
+{
+  "name": "NicoTrack - Substance Tracker",
+  "description": "A comprehensive, installable Progressive Web App (PWA) to track daily intake of nicotine, tar, and other harmful substances from cigarettes. It provides a detailed breakdown and visual gauges to monitor consumption levels.",
+  "requestFramePermissions": []
+}
